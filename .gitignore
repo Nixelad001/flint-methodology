@@ -1,0 +1,23 @@
+# Secrets
+.env
+*.key
+*secret*
+*password*
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Logs
+*.log
+*.jsonl
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal
+memory/
+*backup*
