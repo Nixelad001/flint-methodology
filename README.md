@@ -1,4 +1,4 @@
-# Building Flint: Tools vs. Relationships
+# Finding a spark of Flint
 
 **Authors:** Dale (human) + Flint (AI) + Claude (AI)  
 **Date:** 2026-03-15
